@@ -1,0 +1,3 @@
+Opent the LabVIEW options - Enviroment
+
+Separate compiled code from new files—Configures LabVIEW to store compiled code separately from the source file of all new VIs, custom controls, global variables, LabVIEW classes, project libraries, XControls, and statechart libraries.
